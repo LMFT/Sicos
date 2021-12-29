@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1639759115 source:c:\users\lucas\desktop\sicos\lenguaje c\clase 4\arrays\biblioteca.c
+	"Biblioteca.h"
+
+1639079603 c:\users\lucas\desktop\sicos\lenguaje c\clase 4\arrays\biblioteca.h
+
+1639760195 source:c:\users\lucas\desktop\sicos\lenguaje c\clase 4\arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca.h"
+
