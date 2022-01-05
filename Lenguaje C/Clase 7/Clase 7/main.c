@@ -20,7 +20,7 @@ Variables externas
 int Factorial(int numero);
 
 //Enumerados
-enum DiaSemana
+typedef enum DiaSemana
 {
     Dom,
     Lun,
