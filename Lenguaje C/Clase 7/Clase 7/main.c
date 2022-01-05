@@ -24,11 +24,11 @@ typedef enum DiaSemana
 {
     Dom,    //0
     Lun,    //1
-    Mar = 100,    //2
-    Mie,    //3
-    Jue,    //4
-    Vie,    //5
-    Sab     //6
+    Mar = 100,
+    Mie,    //101
+    Jue,    //102
+    Vie,    //103
+    Sab     //104
 }DiaSemana;
 
 //Uniones
