@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1641412572 source:c:\users\lucas\desktop\sicos\sicos\lenguaje c\clase 7\clase 7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"VariablesExternas.h"
+
+1641412572 source:c:\users\lucas\desktop\sicos\sicos\lenguaje c\clase 7\clase 7\variablesexternas.c
+	"VariablesExternas.h"
+
+1641412572 c:\users\lucas\desktop\sicos\sicos\lenguaje c\clase 7\clase 7\variablesexternas.h
+
