@@ -59,9 +59,9 @@ int main()
     miUnion.miFlotante = 53.2345;
     strcpy(miUnion.miTexto, "Estoy aprendiendo uniones en C");
 
-    printf("%d\n", miUnion.miEntero);
-    printf("%.4f\n", miUnion.miFlotante);
-    printf("%s\n\n\n", miUnion.miTexto);
+    printf("Valor del miembro miEntero%d\n", miUnion.miEntero);
+    printf("Valor del miembro miFlotante%.4f\n", miUnion.miFlotante);
+    printf("Valor del miembro miTexto%s\n\n\n", miUnion.miTexto);
 
     variableExterna = 15;
     printf("%d\n", variableExterna);
