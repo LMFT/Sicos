@@ -63,6 +63,8 @@ int main()
     printf("Valor del miembro miFlotante: %.4f\n", miUnion.miFlotante);
     printf("Valor del miembro miTexto: %s\n\n\n", miUnion.miTexto);
 
+    printf("Cantidad de bytes ocupados por un miembro de la union: %d", sizeof(Dato));
+
     variableExterna = 15;
     printf("%d\n", variableExterna);
     MiFuncion();
