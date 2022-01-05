@@ -22,13 +22,13 @@ int Factorial(int numero);
 //Enumerados
 typedef enum DiaSemana
 {
-    Dom,
-    Lun,
-    Mar,
-    Mie,
-    Jue,
-    Vie,
-    Sab
+    Dom,    //0
+    Lun,    //1
+    Mar,    //2
+    Mie,    //3
+    Jue,    //4
+    Vie,    //5
+    Sab     //6
 }DiaSemana;
 
 //Uniones
