@@ -43,7 +43,7 @@ typedef union Dato
 int main()
 {
     //Recursividad
-    printf("%d\n", Factorial(5));
+    printf("%d\n\n\n", Factorial(5));
 
     //Enumerados
 
@@ -51,7 +51,7 @@ int main()
     DiaSemana otroDia = 1;
 
     printf("%d\n", dia);
-    printf("%d\n", otroDia);
+    printf("%d\n\n\n", otroDia);
 
     //Uniones
     Dato miUnion;
@@ -61,7 +61,7 @@ int main()
 
     printf("%d\n", miUnion.miEntero);
     printf("%.4f\n", miUnion.miFlotante);
-    printf("%s\n", miUnion.miTexto);
+    printf("%s\n\n\n", miUnion.miTexto);
 
     variableExterna = 15;
     printf("%d\n", variableExterna);
