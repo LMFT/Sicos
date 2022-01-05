@@ -24,7 +24,7 @@ typedef enum DiaSemana
 {
     Dom,    //0
     Lun,    //1
-    Mar,    //2
+    Mar = 100,    //2
     Mie,    //3
     Jue,    //4
     Vie,    //5
@@ -40,12 +40,29 @@ typedef union Dato
     char miTexto[50];
 }Dato;
 
-//Variables Externas
-
-
-
 int main()
 {
+    //Recursividad
+    printf("%d\n", Factorial(5));
+
+    //Enumerados
+
+    DiaSemana dia = Dom;
+    DiaSemana otroDia = 3;
+
+    printf("%d\n", dia);
+    printf("%d\n", otroDia);
+
+    //Uniones
+    Dato miUnion;
+    miUnion.miEntero = 10;
+    miUnion.miFlotante = 53.2345;
+    strcpy(miUnion.miTexto, "Estoy aprendiendo uniones en C");
+
+    printf("%d\n", miUnion.miEntero);
+    printf("%.4f\n", miUnion.miFlotante);
+    printf("%s\n", miUnion.miTexto);
+
     variableExterna = 15;
     printf("%d\n", variableExterna);
     MiFuncion();
