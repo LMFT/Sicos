@@ -48,7 +48,7 @@ int main()
     //Enumerados
 
     DiaSemana dia = Dom;
-    DiaSemana otroDia = 3;
+    DiaSemana otroDia = 1;
 
     printf("%d\n", dia);
     printf("%d\n", otroDia);
