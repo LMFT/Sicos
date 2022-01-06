@@ -66,9 +66,9 @@ int main()
     printf("Cantidad de bytes ocupados por una variable del tipo de la union: %d\n\n\n", sizeof(miUnion));
 
     variableExterna = 15;
-    printf("%d\n", variableExterna);
+    printf("Valor de variableExterna antes de usar la funcion: %d\n", variableExterna);
     MiFuncion();
-    printf("%d\n", variableExterna);
+    printf("Valor de variableExterna despues de usar la funcion: %d\n", variableExterna);
     return 0;
 }
 
