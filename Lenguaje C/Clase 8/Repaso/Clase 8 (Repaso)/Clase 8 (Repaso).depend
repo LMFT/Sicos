@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1644005589 source:c:\users\lucas\desktop\sicos\sicos\lenguaje c\clase 8\repaso\clase 8 (repaso)\main.c
+	"Sicos.h"
+
+1644005577 c:\users\lucas\desktop\sicos\sicos\lenguaje c\clase 8\repaso\clase 8 (repaso)\sicos.h
+	<stdio.h>
+	<stdlib.h>
+
+1644005577 source:c:\users\lucas\desktop\sicos\sicos\lenguaje c\clase 8\repaso\clase 8 (repaso)\sicos.c
+	"Sicos.h"
+
