@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1645042162 source:c:\users\lucas\desktop\sicos\sicos\lenguaje c\clase 8\abm\main.c
+	"Producto.h"
+
+1645041917 c:\users\lucas\desktop\sicos\sicos\lenguaje c\clase 8\abm\producto.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Sicos.h"
+
+1645041613 c:\users\lucas\desktop\sicos\sicos\lenguaje c\clase 8\abm\sicos.h
+	<stdio.h>
+	<stdlib.h>
+
+1645041778 source:c:\users\lucas\desktop\sicos\sicos\lenguaje c\clase 8\abm\producto.c
+	"Producto.h"
+
+1645041305 source:c:\users\lucas\desktop\sicos\sicos\lenguaje c\clase 8\abm\sicos.c
+	"Sicos.h"
+
+1645041305 source:c:\users\lucas\desktop\sicos\sicos\lenguaje c\clase 8\abm\interfaz.c
+
